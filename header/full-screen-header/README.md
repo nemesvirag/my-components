@@ -1,0 +1,1 @@
+Ez egy teljes képernyős header komponens a későbbi munkát megsegíteni.

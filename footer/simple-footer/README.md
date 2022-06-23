@@ -1,0 +1,1 @@
+Ez egy egyszerű footer komponens a későbbi munkát megsegíteni.
